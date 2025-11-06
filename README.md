@@ -83,7 +83,7 @@
 
 - [Lingvist](https://lingvist.com/) - AI-powered adaptive learning platform.
 - [LingQ](https://www.lingq.com/) - Learn through reading and listening to authentic content.
-- [Deutsche Welle Learn German](https://learngerman.dw.com/) - Free comprehensive German courses from A1 to C.
+- [Deutsche Welle Learn German](https://learngerman.dw.com/) - Free comprehensive German courses from A1 to C2.
 - [Seedlang](https://seedlang.com/) - Learn German through news articles.
 
 ### Desktop Apps
@@ -388,7 +388,7 @@
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Related Lists
 

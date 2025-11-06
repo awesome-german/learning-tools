@@ -83,7 +83,7 @@
 
 - [Lingvist](https://lingvist.com/) - AI駆動型の適応学習プラットフォーム。
 - [LingQ](https://www.lingq.com/) - 本物のコンテンツを読んだり聞いたりして学習。
-- [Deutsche Welle Learn German](https://learngerman.dw.com/) - A1からCまでの無料の包括的なドイツ語コース。
+- [Deutsche Welle Learn German](https://learngerman.dw.com/) - A1からC2までの無料の包括的なドイツ語コース。
 - [Seedlang](https://seedlang.com/) - ニュース記事を通じてドイツ語を学習。
 
 ### デスクトップアプリ
@@ -388,7 +388,7 @@
 
 ## 貢献
 
-貢献を歓迎します！まず[貢献ガイドライン](CONTRIBUTING.md)をお読みください。
+貢献を歓迎します！お気軽にPull Requestを送信してください。
 
 ## 関連リスト
 

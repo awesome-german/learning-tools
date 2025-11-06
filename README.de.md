@@ -83,7 +83,7 @@
 
 - [Lingvist](https://lingvist.com/) - KI-gestützte adaptive Lernplattform.
 - [LingQ](https://www.lingq.com/) - Lernen durch Lesen und Hören authentischer Inhalte.
-- [Deutsche Welle Deutsch lernen](https://learngerman.dw.com/) - Kostenlose umfassende Deutschkurse von A1 bis C.
+- [Deutsche Welle Deutsch lernen](https://learngerman.dw.com/) - Kostenlose umfassende Deutschkurse von A1 bis C2.
 - [Seedlang](https://seedlang.com/) - Deutsch lernen durch Nachrichtenartikel.
 
 ### Desktop-Apps
@@ -185,7 +185,7 @@
 
 ### Podcasts
 
-- [Coffee Break German](https://coffeebreaklanguages.com/cofffebreakgerman/) - Lektionen für Anfänger bis Mittelstufe.
+- [Coffee Break German](https://coffeebreaklanguages.com/coffeebreakgerman/) - Lektionen für Anfänger bis Mittelstufe.
 - [Easy German Podcast](https://www.easygerman.fm/) - Gespräche über das Leben in Deutschland.
 - [Slow German](https://www.slowgerman.com/) - Langsam gesprochener Podcast für Lernende.
 - [Warum Nicht?](https://www.dw.com/de/deutsch-lernen/warum-nicht/s-2548) - DW-Serie für Lernende.
@@ -388,7 +388,7 @@
 
 ## Beitragen
 
-Beiträge sind willkommen! Bitte lies zuerst die [Beitragsrichtlinien](CONTRIBUTING.md).
+Beiträge sind willkommen! Bitte sende gerne einen Pull Request ein.
 
 ## Verwandte Listen
 
