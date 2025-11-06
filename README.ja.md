@@ -376,14 +376,14 @@
 
 ### 音楽
 
-- [Deutsche Welle 音楽](https://www.dw.com/ja/音楽/s-12876) - ドイツの音楽とアーティスト。
+- [Deutsche Welle 音楽](https://www.dw.com/en/music/s-12876) - ドイツの音楽とアーティスト。
 - [ドイツチャート](https://www.offiziellecharts.de/) - 現在のドイツ音楽チャート。
 - [Spotify ドイツ語学習プレイリスト](https://open.spotify.com/) - 学習者向けキュレーションプレイリスト。
 
 ### 歴史と文化
 
 - [Goethe-Institut 文化](https://www.goethe.de/en/kul.html) - ドイツの文化と社会。
-- [Deutsche Welle 文化](https://www.dw.com/ja/文化/s-10133) - ドイツ文化ニュースと特集。
+- [Deutsche Welle 文化](https://www.dw.com/en/culture/s-10133) - ドイツ文化ニュースと特集。
 - [ドイツ史料集](https://germanhistorydocs.ghi-dc.org/) - 一次史料。
 
 ## 貢献
