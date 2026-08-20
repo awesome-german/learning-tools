@@ -394,3 +394,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [Awesome German](https://github.com/lk-geimfari/awesome-german) - Awesome resources for German developers.
 - [Awesome Language Learning](https://github.com/fffaraz/awesome-language-learning) - General language learning resources.
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**phrases**](https://github.com/awesome-german/phrases)
+- [**cognitive-learning**](https://github.com/awesome-german/cognitive-learning) — Cognitive and neuroscience-based methods for efficient German acquisition
+- [**ai-translation**](https://github.com/awesome-german/ai-translation) — Neural translation tools and multilingual corpus alignment techniques for German
+- [**youtube**](https://github.com/awesome-german/youtube) — Best YouTube channels for learning German through engaging video content, lessons, and real-life dialogues.
+<!-- END gh-mutual-linking -->
