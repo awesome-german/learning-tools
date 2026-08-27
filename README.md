@@ -1,6 +1,6 @@
 # Awesome German Learning Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome apps, materials, and resources for learning German language and comparing it with other languages.
+> A curated list of awesome apps, materials, and resources for learning the German language and comparing it with other languages.
 
 **Read this in other languages:** [Deutsch (German)](README.de.md) | [日本語 (Japanese)](README.ja.md)
 
