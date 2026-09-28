@@ -175,6 +175,7 @@
 
 - [Project Gutenberg German Books](https://www.gutenberg.org/) - Free classic German literature.
 - [LibriVox German Audiobooks](https://librivox.org/) - Free public domain audiobooks.
+- [Language through Literature — German room](https://languagethroughliterature.com/german) - Grimm and Hebel unabridged, every word glossed on tap with the whole sentence in English, every line read aloud; one tale free without an account.
 
 ### Comics and Manga
 
