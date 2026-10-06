@@ -386,6 +386,12 @@
 - [Deutsche Welle Culture](https://www.dw.com/en/culture/s-10133) - German culture news and features.
 - [German History in Documents](https://germanhistorydocs.ghi-dc.org/) - Primary historical sources.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -395,29 +401,22 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Awesome German](https://github.com/lk-geimfari/awesome-german) - Awesome resources for German developers.
 - [Awesome Language Learning](https://github.com/fffaraz/awesome-language-learning) - General language learning resources.
 
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
 <!-- BEGIN gh-mutual-linking -->
 
 ---
 
 ### Related projects
 
-- [**better-super-simple-highlighter**](https://github.com/didvc/better-super-simple-highlighter) — Better Super Simple Highlighter - a Chrome extension (MV3), text highlighting for web pages. The enhanced fork of…
-- [**kana-transliterator**](https://github.com/html-js/kana-transliterator) — Single-file browser tool that transliterates Japanese kana into Cyrillic (Polivanov), Hepburn, French, and German
-- [**pronunciation**](https://github.com/awesome-german/pronunciation) — Guides, phonetic tools, and speaking exercises to achieve clear and natural German pronunciation.
-- [**music**](https://github.com/awesome-german/music) — Songs, lyrics, and playlists for learning German through rhythm, emotion, and repetition.
-- [**kids**](https://github.com/awesome-german/kids) — Fun and interactive German learning materials designed specifically for children and beginners.
-- [**communities**](https://github.com/awesome-german/communities) — Online and offline German learning communities for discussion, support, and collaboration.
-- [**movies**](https://github.com/awesome-german/movies) — Top German films and TV series for immersive learning through culture, dialogue, and subtitles.
-- [**learning-hacks**](https://github.com/awesome-german/learning-hacks) — Practical shortcuts and science-backed techniques for learning German faster and remembering longer.
-- [**podcasts**](https://github.com/awesome-german/podcasts) — Curated list of the best podcasts to learn, practice, and enjoy German through real conversation and culture.
-- [**culture**](https://github.com/awesome-german/culture) — German cultural insights, traditions, and lifestyle guides for learners and expatriates.
-- [**apps**](https://github.com/awesome-german/apps) — Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
-- [**youtube**](https://github.com/awesome-german/youtube) — Best YouTube channels for learning German through engaging video content, lessons, and real-life dialogues.
-- [**news**](https://github.com/awesome-german/news) — German news outlets, RSS feeds, and current-affairs reading practice tools
-- [**phrases**](https://github.com/awesome-german/phrases)
-- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
-- [**core**](https://github.com/URL-Note-Taker/core) — URL Note Taker is a userscript that allows you to take notes on any webpage. Built with Preact, it provides a modern and intuitive user interface.
-- [**gakuwari**](https://github.com/awesome-ja/gakuwari) — 日本の学生が利用できる学生割引、学生ライセンス、教育ライセンスなどをまとめたAwesome List
-- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
-- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
+- [apps](https://github.com/awesome-german/apps): Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
+- [ai-tools](https://github.com/awesome-german/ai-tools): AI-powered tools and chatbots that personalize German learning and automate feedback.
+- [cognitive-learning](https://github.com/awesome-german/cognitive-learning): Cognitive and neuroscience-based methods for efficient German acquisition.
+- [websites](https://github.com/awesome-german/websites): Trusted websites, online courses, and resources for mastering German from beginner to advanced.
+- [grammar](https://github.com/awesome-german/grammar): Resources for learning German grammar, including structures, syntax, and usage nuances.
+
 <!-- END gh-mutual-linking -->

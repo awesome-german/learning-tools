@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "awesome-german/learning-tools"
+message: "If you use or reference this list, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - name: "Aesthetic Vulpes"
+    alias: didvc
+    website: "https://github.com/didvc"
+repository-code: "https://github.com/awesome-german/learning-tools"
+url: "https://github.com/awesome-german/learning-tools"
+license: CC-BY-4.0
+abstract: "Apps and materials for German language and its comparison."
+keywords:
+  - awesome-list
+  - german
+  - language-learning
+  - learning-tools
