@@ -85,6 +85,7 @@
 - [LingQ](https://www.lingq.com/) - Learn through reading and listening to authentic content.
 - [Deutsche Welle Learn German](https://learngerman.dw.com/) - Free comprehensive German courses from A1 to C2.
 - [Seedlang](https://seedlang.com/) - Learn German through news articles.
+- [Übungszeit](https://ubungszeit.com/) - Graded four-skill practice A1-C1 with an AI tutor that explains mistakes.
 
 ### Desktop Apps
 
