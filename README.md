@@ -162,6 +162,7 @@
 - [Olly Richards' German Short Stories](https://www.storylearning.com/) - Stories designed for learners.
 - [André Klein's Learn German with Stories](https://learnoutlive.com/) - Dino Lernt Deutsch series.
 - [German Graded Readers](https://www.easyreaders.eu/) - Simplified classic literature.
+- [MeloLingua Graded Stories Dataset](https://github.com/MeloLingua/melolingua-language-stories-dataset) - Free A1-B2 German short stories with sentence-by-sentence English translations, vocabulary and comprehension questions, for learners and teachers (CC BY-NC 4.0).
 
 ### News Sites
 
