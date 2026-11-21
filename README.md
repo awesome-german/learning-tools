@@ -85,6 +85,7 @@
 - [LingQ](https://www.lingq.com/) - Learn through reading and listening to authentic content.
 - [Deutsche Welle Learn German](https://learngerman.dw.com/) - Free comprehensive German courses from A1 to C2.
 - [Seedlang](https://seedlang.com/) - Learn German through news articles.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Shows the German captions of any YouTube video as a timestamped transcript to read along with, search or download; free to use, with paid plans for heavier use and AI features.
 
 ### Desktop Apps
 
