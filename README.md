@@ -78,6 +78,7 @@
 - [Drops](https://languagedrops.com/) - Visual vocabulary learning in 5-minute sessions.
 - [Mondly](https://www.mondly.com/) - Interactive lessons with speech recognition.
 - [Clozemaster](https://www.clozemaster.com/) - Learn through context with cloze exercises.
+- [ContextCat](https://contextcat.app/languages/german) - Read real German texts and tap any word for its meaning in that sentence; iOS and Android, free plan plus a paid Pro plan.
 
 ### Web Apps
 
