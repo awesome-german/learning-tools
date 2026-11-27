@@ -85,6 +85,7 @@
 - [LingQ](https://www.lingq.com/) - Learn through reading and listening to authentic content.
 - [Deutsche Welle Learn German](https://learngerman.dw.com/) - Free comprehensive German courses from A1 to C2.
 - [Seedlang](https://seedlang.com/) - Learn German through news articles.
+- [OpenExam Hub](https://openexamhub.org) - Free study planner for learners preparing official language exams such as Goethe-Zertifikat, with a day-by-day plan and a CLB/NCLC converter.
 
 ### Desktop Apps
 
